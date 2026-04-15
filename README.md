@@ -27,7 +27,9 @@ The system is designed to simulate real user interactions programmatically which
 This project was built to reduce time spent on repetitive academic and system tasks. By automating multi step processes Jarvis significantly improves efficiency and demonstrates how automation can be applied to everyday workflows.
 
 ## Screenshots
-(Add your screenshots here)
+![Jarvis Running](PASTE_LINK)
+![Command Execution](PASTE_LINK)
+![Automation Result](PASTE_LINK)
 
 ## Demo
 (Demo video included in repository)
